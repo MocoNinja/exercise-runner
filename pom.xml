@@ -7,7 +7,7 @@
 
     <groupId>es.moconinja.exerciserunner</groupId>
     <artifactId>exercise-runner</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>exercise-runner</name>
