@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d17782f3-783c-4b25-ad83-9eb52c92d975" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="lj29DtCV" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2zMyAAPeIqCuJPmt6ZnLV248sCg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.ArgTest.argWorks_ForGenericType.executor": "Run",
+    "JUnit.ArgsTest.executor": "Run",
+    "JUnit.ArgsTest.getMissingArgs_ThrowsException.executor": "Run",
+    "JUnit.BaseExerciseTestWithAnyExample.executor": "Run",
+    "JUnit.BaseExerciseTestWithAnyExample.subclass_NoArgs_WorksAsExpected.executor": "Run",
+    "JUnit.BaseExerciseTestWithAnyExample.subclass_WithArgs_WorksAsExpected.executor": "Run",
+    "JUnit.ExampleExercisesTests (1).executor": "Run",
+    "JUnit.ExampleExercisesTests.executor": "Run",
+    "JUnit.HelloWorldExerciseTest.testHelloWorldIsLogged.executor": "Run",
+    "JUnit.LauncherTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "go.import.settings.migrated": "true",
+    "last_directory_selection": "W:/Informática - Pro/Proyectos/Aprendizaje Libros/_dev/exercise-runner/src/test/java/es/moconinja/exerciserunner/exercise",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="es.moconinja.exerciserunner.exercise.examples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BaseExerciseTestWithAnyExample">
+    <configuration name="ArgsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-runner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.moconinja.exerciserunner.args.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.moconinja.exerciserunner.args" />
+      <option name="MAIN_CLASS_NAME" value="es.moconinja.exerciserunner.args.ArgsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArgsTest.getMissingArgs_ThrowsException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-runner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.moconinja.exerciserunner.args.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.moconinja.exerciserunner.args" />
+      <option name="MAIN_CLASS_NAME" value="es.moconinja.exerciserunner.args.ArgsTest" />
+      <option name="METHOD_NAME" value="getMissingArgs_ThrowsException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseExerciseTestWithAnyExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-runner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.moconinja.exerciserunner.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.moconinja.exerciserunner.exercise" />
+      <option name="MAIN_CLASS_NAME" value="es.moconinja.exerciserunner.exercise.BaseExerciseTestWithAnyExample" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseExerciseTestWithAnyExample.subclass_WithArgs_WorksAsExpected" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-runner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.moconinja.exerciserunner.exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.moconinja.exerciserunner.exercise" />
+      <option name="MAIN_CLASS_NAME" value="es.moconinja.exerciserunner.exercise.BaseExerciseTestWithAnyExample" />
+      <option name="METHOD_NAME" value="subclass_WithArgs_WorksAsExpected" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LauncherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="exercise-runner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.moconinja.exerciserunner.launcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.moconinja.exerciserunner.launcher" />
+      <option name="MAIN_CLASS_NAME" value="es.moconinja.exerciserunner.launcher.LauncherTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BaseExerciseTestWithAnyExample" />
+        <item itemvalue="JUnit.BaseExerciseTestWithAnyExample.subclass_WithArgs_WorksAsExpected" />
+        <item itemvalue="JUnit.LauncherTest" />
+        <item itemvalue="JUnit.ArgsTest" />
+        <item itemvalue="JUnit.ArgsTest.getMissingArgs_ThrowsException" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/scoop/persist/rustup/.cargo/bin" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d17782f3-783c-4b25-ad83-9eb52c92d975" name="Changes" comment="" />
+      <created>1751555090529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751555090529</updated>
+      <workItem from="1751555091645" duration="7992000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
