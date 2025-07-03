@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * A Map of {@link Arg}'s, with their respective {@link Arg#getKey()}
+ */
 public class Args {
     private final Map<String, Arg> argMap;
 

@@ -8,6 +8,11 @@ import java.time.Clock;
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 
+/**
+ * Base abstract class to launch some code.
+ * Extend this and override the {@link BaseExercise#perfomLogic()}
+ * Exposes a {@link Logger} through {@link BaseExercise#getLogger()} for convenience.
+ */
 public abstract class BaseExercise {
     private static final Logger LOG = LoggerFactory.getLogger(BaseExercise.class);
     private static final DateTimeFormatter FORMATTER = DateTimeFormatter.ISO_DATE_TIME;

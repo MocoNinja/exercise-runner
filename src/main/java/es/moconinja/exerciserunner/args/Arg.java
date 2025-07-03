@@ -1,5 +1,9 @@
 package es.moconinja.exerciserunner.args;
 
+/**
+ * Abstraction of a value of any type with a key
+ * @param <T>
+ */
 public class Arg<T> {
     private final String key;
     private final T value;
