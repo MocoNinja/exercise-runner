@@ -38,13 +38,6 @@ jobs:
           files: target/site/jacoco/jacoco.xml
           fail_ci_if_error: true
 
-      - name: SonarCloud Scan
-        run: mvn sonar:sonar \
-          -Dsonar.projectKey=MocoNinja_exercise-runner \
-          -Dsonar.organization=MocoNinja \
-          -Dsonar.host.url=https://sonarcloud.io \
-          -Dsonar.login=${{ secrets.SONAR_TOKEN }}
-
       - name: Publish to GitHub Packages Apache Maven
         run: mvn deploy -s $GITHUB_WORKSPACE/settings.xml
         env:
